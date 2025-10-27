@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of AstroJournal mw start 10/25/2025 6:30 pm est",
+  "description": "A smart journal that captures the astrological planetary day and hour for each entry, helping you track cosmic influences on your daily life.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
